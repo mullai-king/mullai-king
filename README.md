@@ -1,5 +1,4 @@
-preview
-<h1 align="center">Hi 👋, I'm Mullaiventhan</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=908AF7&random=false&width=435&lines=Hello+there%F0%9F%91%8B.I'm+Mullaiventhan" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate MERN full stack developer</h3>
 
 - 🌱 I’m currently learning **MERN full stack development**
